@@ -5,6 +5,7 @@ Othmane ZARHALI and Rayan DHOUIB
 #### Methodology
 - SIFT
 - SMO
+- One versus One
 - Chi2 kernel then MKL with Chi2 kernels
 #### Score
 0.6103 on the leaderboard before the end of the challenge
