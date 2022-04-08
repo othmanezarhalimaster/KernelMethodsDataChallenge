@@ -8,4 +8,4 @@ Othmane ZARHALI and Rayan DHOUIB
 - One versus One
 - SMO
 #### Score
-0.6103 on the leaderboard before the end of the challenge
+0.60400 in the final leaderboard 
